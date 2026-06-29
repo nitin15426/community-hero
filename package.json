@@ -1,0 +1,10 @@
+{
+  "name": "community-hero-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev:backend": "npm run dev --prefix backend",
+    "dev:frontend": "npm run dev --prefix frontend",
+    "dev": "start npm run dev --prefix backend && npm run dev --prefix frontend"
+  }
+}
