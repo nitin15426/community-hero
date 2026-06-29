@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://community-hero-backend.onrender.com/api/:path*"
+      "destination": "https://community-hero-g8pl.onrender.com/api/:path*"
     },
     {
       "source": "/uploads/:path*",
-      "destination": "https://community-hero-backend.onrender.com/uploads/:path*"
+      "destination": "https://community-hero-g8pl.onrender.com/uploads/:path*"
     }
   ]
 }
